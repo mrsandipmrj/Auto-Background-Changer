@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+    margin:0;
+    padding:0;
+}
+body{
+    color:rgb(134, 51, 51);
+ background-color: black;
+}
+.button :hover{
+ color:green;
+ background-color:red;
+}
